@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<peci:Workers_Effective_Stack xmlns:peci="urn:com.workday/peci">
+	<peci:Summary>
+	<peci:Integration_Event>6b0031a2-bdbb-e511-a9bd-000c29e7670f</peci:Integration_Event>
+	<peci:Integration_Sent_On>2020-01-016T06:38:54</peci:Integration_Sent_On>
+	<peci:Payroll_Company_Id>Org-2345</peci:Payroll_Company_Id>
+	<peci:Payroll_Company_Name>ADP-Celergo</peci:Payroll_Company_Name>
+	<peci:Payroll_Company_Code/>
+	<peci:Pay_Group_ID>	Pay_Group-3-14</peci:Pay_Group_ID>
+	<peci:Pay_Group_Name>Rou Monthly Pay Group</peci:Pay_Group_Name>
+	<peci:Pay_Group_Country>RO</peci:Pay_Group_Country>
+	<peci:Pay_Group_Code>RO_Monthly	</peci:Pay_Group_Code>
+	<peci:Pay_Period_Start>2020-01-01</peci:Pay_Period_Start>
+	<peci:Pay_Period_End>2020-01-31</peci:Pay_Period_End>
+	<peci:Updated_From>2020-01-016T06:38:54</peci:Updated_From>
+	<peci:Updated_To>2020-01-016T06:38:54</peci:Updated_To>
+	<peci:Effective_From>2020-01-31</peci:Effective_From>
+	<peci:Effective_To>2020-01-31</peci:Effective_To>
+	<peci:Change_Detection/>
+	<peci:First_Primary_Run_Of_Pay_Period>0</peci:First_Primary_Run_Of_Pay_Period>
+	<peci:Ad_HOC_Run>1</peci:Ad_HOC_Run>
+	<peci:Full_Snapshot>1</peci:Full_Snapshot>
+	<peci:Worker_Count>426</peci:Worker_Count>
+	<peci:Version>1</peci:Version>
+	</peci:Summary>
+	<peci:Worker>
+		<peci:Worker_Summary>
+			<peci:WID>121211</peci:WID>
+			<peci:Employee_ID> 78769</peci:Employee_ID>
+			<peci:Name> Mohan Singh</peci:Name>
+		</peci:Worker_Summary>
+	</peci:Worker>
+	<peci:Worker>
+		<peci:Worker_Summary>
+			<peci:WID>121212</peci:WID>
+			<peci:Employee_ID> 78769</peci:Employee_ID>
+			<peci:Name> Mohan Singh</peci:Name>
+		</peci:Worker_Summary>
+	</peci:Worker>
+	<peci:Worker>
+		<peci:Worker_Summary>
+			<peci:WID>121213</peci:WID>
+			<peci:Employee_ID> 78769</peci:Employee_ID>
+			<peci:Name> Mohan Singh</peci:Name>
+		</peci:Worker_Summary>
+	</peci:Worker>
+	<peci:Worker>
+		<peci:Worker_Summary>
+			<peci:WID>121214</peci:WID>
+			<peci:Employee_ID> 78769</peci:Employee_ID>
+			<peci:Name> Mohan Singh</peci:Name>
+		</peci:Worker_Summary>
+	</peci:Worker>
+	<peci:Worker>
+		<peci:Worker_Summary>
+			<peci:WID>121215</peci:WID>
+			<peci:Employee_ID> 78769</peci:Employee_ID>
+			<peci:Name> Mohan Singh</peci:Name>
+		</peci:Worker_Summary>
+	</peci:Worker>
+	<peci:Worker>
+		<peci:Worker_Summary>
+			<peci:WID>121216</peci:WID>
+			<peci:Employee_ID> 78769</peci:Employee_ID>
+			<peci:Name> Mohan Singh</peci:Name>
+		</peci:Worker_Summary>
+	</peci:Worker>
+	<peci:Worker>
+		<peci:Worker_Summary>
+			<peci:WID>121217</peci:WID>
+			<peci:Employee_ID> 78769</peci:Employee_ID>
+			<peci:Name> Mohan Singh</peci:Name>
+		</peci:Worker_Summary>
+	</peci:Worker>	
+</peci:Workers_Effective_Stack>

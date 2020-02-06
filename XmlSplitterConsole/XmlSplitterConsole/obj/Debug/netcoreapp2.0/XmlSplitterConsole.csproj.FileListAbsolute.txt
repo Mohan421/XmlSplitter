@@ -1,0 +1,11 @@
+C:\Projects\XmlSplitterConsole\XmlSplitterConsole\bin\Debug\netcoreapp2.0\XmlSplitterConsole.deps.json
+C:\Projects\XmlSplitterConsole\XmlSplitterConsole\bin\Debug\netcoreapp2.0\XmlSplitterConsole.runtimeconfig.json
+C:\Projects\XmlSplitterConsole\XmlSplitterConsole\bin\Debug\netcoreapp2.0\XmlSplitterConsole.runtimeconfig.dev.json
+C:\Projects\XmlSplitterConsole\XmlSplitterConsole\bin\Debug\netcoreapp2.0\XmlSplitterConsole.dll
+C:\Projects\XmlSplitterConsole\XmlSplitterConsole\bin\Debug\netcoreapp2.0\XmlSplitterConsole.pdb
+C:\Projects\XmlSplitterConsole\XmlSplitterConsole\obj\Debug\netcoreapp2.0\XmlSplitterConsole.csproj.CoreCompileInputs.cache
+C:\Projects\XmlSplitterConsole\XmlSplitterConsole\obj\Debug\netcoreapp2.0\XmlSplitterConsole.AssemblyInfoInputs.cache
+C:\Projects\XmlSplitterConsole\XmlSplitterConsole\obj\Debug\netcoreapp2.0\XmlSplitterConsole.AssemblyInfo.cs
+C:\Projects\XmlSplitterConsole\XmlSplitterConsole\obj\Debug\netcoreapp2.0\XmlSplitterConsole.dll
+C:\Projects\XmlSplitterConsole\XmlSplitterConsole\obj\Debug\netcoreapp2.0\XmlSplitterConsole.pdb
+C:\Projects\XmlSplitterConsole\XmlSplitterConsole\obj\Debug\netcoreapp2.0\XmlSplitterConsole.csprojAssemblyReference.cache
